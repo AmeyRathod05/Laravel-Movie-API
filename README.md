@@ -47,7 +47,7 @@ A RESTful API for managing movies, built with Laravel 10. This API provides endp
 
 ## Tech Stack
 
-- **Backend**: Laravel 10
+- **Backend**: Laravel 12
 - **Authentication**: Laravel Sanctum
 - **Database**: MySQL
 - **Testing**: PHPUnit
