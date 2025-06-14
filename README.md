@@ -1,3 +1,33 @@
+POSTMAN API TESTING : 
+
+- REGISTER USER :  
+![Screenshot 2025-06-14 214436](https://github.com/user-attachments/assets/15331878-0607-43a0-8c91-11322df5686e)
+
+- LOGIN : 
+![Screenshot 2025-06-14 214450](https://github.com/user-attachments/assets/d04e5480-7a72-45b2-9c6b-1566cb67d74d)
+
+- GET USER : 
+![Screenshot 2025-06-14 214512](https://github.com/user-attachments/assets/8abae738-c3ab-48d8-90ea-7644acc04555)
+
+- LOGOUT USER :
+![Screenshot 2025-06-14 214526](https://github.com/user-attachments/assets/d9f5ae2f-05d3-45f0-ba26-f356db43b8d2)
+
+- GET MOVIES : 
+![Screenshot 2025-06-14 214553](https://github.com/user-attachments/assets/fcc56625-8696-4b09-a54e-c6c2ccbeb07c)
+
+- GET ONE MOVIE : 
+ ![Screenshot 2025-06-14 221254](https://github.com/user-attachments/assets/a3568ea3-691e-4a20-875d-6865dace866a)
+
+- DELETE MOVIE :
+![Screenshot 2025-06-14 215334](https://github.com/user-attachments/assets/a16ae703-3c7c-4983-bcb5-add5a1ad3ab2)
+
+- PUT/UPDATE :
+![Screenshot 2025-06-14 215552](https://github.com/user-attachments/assets/920a03be-0c07-493b-a4ee-c7eb20674870)
+
+- DATABASE : 
+![Screenshot 2025-06-14 215626](https://github.com/user-attachments/assets/e2074b82-f588-412d-8b33-9fd0714b065b)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
