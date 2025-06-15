@@ -33,7 +33,7 @@ POSTMAN API TESTING :
 
 # Laravel Movie API
 
-A RESTful API for managing movies, built with Laravel 10. This API provides endpoints for CRUD operations on movies, complete with authentication using Laravel Sanctum.
+A RESTful API for managing movies, built with Laravel 12. This API provides endpoints for CRUD operations on movies, complete with authentication using Laravel Sanctum.
 
 ## Features
 
